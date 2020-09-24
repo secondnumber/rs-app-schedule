@@ -12,7 +12,7 @@ import './App.less';
 function App() {
   return (
     <div className="App">
-      <WrappedCalendar />
+      <ListView />
     </div>
   );
 }
